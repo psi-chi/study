@@ -55,4 +55,4 @@
 
 ## Time & Distance
 
-- The hands of a clock will form an angle of x where x is any angle satisfying 0° < x° < 180° for a total of 44 times in a day.
+- The hands of a clock will form an angle of x° where x° is any angle satisfying 0° < x° < 180° for a total of 44 times in a day.
