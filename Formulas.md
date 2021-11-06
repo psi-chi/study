@@ -94,6 +94,7 @@
 
 - ⁿCᵣ = ⁿCₙ₋ᵣ
 - Number of ways of selecting one or more items from n = 2ⁿ - 1
+- Number of ways in which n objects can be distributed to r objects = ⁿ⁺ʳ⁻¹Cᵣ₋₁
 - Number of circular arrangements of n distinct items = (n - 1)!
 - Number of arrangements of n items of which p are of one type, q are of second type and the rest distinct = n! / p! × q!
 - Number of ways of dividing (p + q + r + ...) items into n groups of p, q, r, ... items respectively = (p + q + r)! / p! × q! × r! × ...
@@ -101,8 +102,8 @@
 - Sum of all n-digit numbers numbers formed by n digits without repetition = (n - 1)! × (Sum of the n digits) × (11111... n times)
 - Number of diagonals in n-sided convex polygon = n(n - 3)/2
 - For x₁ + x₂ + x₃ + ... + xₙ = s where s ≥ 0, the number of positive integral solutions is ˢ⁻¹Cₙ₋₁ and the number of non-negative integral solutions is ⁿ⁺ˢ⁻¹Cₙ₋₁
-- Number of derangements of n objects = n![1 - 1/1! + 1/2! - 1/3! + ... + (-1)ⁿ1/n!]
-- Number of ways in which a selection can be made by taking some or all out of p + q + r + ... things where p are of one kind, q of second kind, r of thrid kind and so on = [{(p + 1)(q + 1)(r + 1) ...} - 1]
+- Number of derangements of n objects = n!{1 - 1/1! + 1/2! - 1/3! + ... + (-1)ⁿ/n!}
+- Number of ways in which a selection can be made by taking some or all out of p + q + r + ... things where p are of one kind, q of second kind, r of thrid kind and so on = {(p + 1)(q + 1)(r + 1)... - 1}
 - ⁿ⁺¹Cᵣ = ⁿCᵣ + ⁿCᵣ₋₁
 - ⁿPᵣ = r × ⁿ⁻¹Pᵣ₋₁ + ⁿ⁻¹Pᵣ
-- n objects can be distributed to r objects in ⁿ⁺ʳ⁻¹Cᵣ₋₁
+
