@@ -41,9 +41,9 @@
 ## Ratio, Proportion & Variation
 
 - If a : b :: c : d, then ad = bc
-- If a : b :: c : d, then a + b : b :: c + d : d
-- If a : b :: c : d, then a - b : b :: c - d : d
-- If a : b :: c : d, then a + b : a - b :: c + d : c - d
+- If a/b = c/d, then a ± b / b = c ± d / d
+- If a/b = c/d, then a + b / a - b = c + d / c - d
+- If a/b = c/d, then a/b = c - a / d - b
 - If a⁄b = c⁄d = e⁄f = ... = k, then k = a ± c ± e ± ... / b ± d ± f ± ...
 
 ## Interest
