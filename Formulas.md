@@ -56,3 +56,53 @@
 ## Time & Distance
 
 - The hands of a clock will form an angle of x° where x° is any angle satisfying 0° < x° < 180° for a total of 44 times in a day.
+
+## Geometry
+
+- Area of Triangle 1 / Area of Triangle 2 = (Perimeter of Triangle 1 / Perimeter of Triangle 2)²
+- Apollonius theorem
+- BOC = 90 + 1/2 × (BAC) if O is the incenter of the triangle ABC
+- AD² = AB × AC where ABC is a secant and AD is a tangent
+- According  to  the  “chords’ segments”  theorem,  AP  x BP = CP x DP where P is the point of intersection of chords
+- Angles in the same segment are equal
+- The  longest  side of  a  scalene  triangle  must  be  more  than one-third of the perimeter and less than half of the perimeter of the triangle
+- In a trapazium ABCD, AE/CE = BE/DC where E is the point of intersection of the diagonals AC and BD
+- Area  of  the  quadrilateral  is  the  total  area  of  two  right angled triangles
+- Opposite angles are supplementary of a quadrilateral inscribed in a circle
+
+## Inequalities & Modules
+
+- Product is maximum of 2 numbers when they are equal
+- Sum is minimum when 2 numbers are equal
+- 2 ≤ (1 + 1/x)ˣ < 2.8, ∀ x ≥ 1
+- x + 1/x ≥ 2, ∀ x > 0
+- Modulus Properties:
+    * |x + y| ≤ |x| + |y|
+    * ||x| - |y|| ≤ |x - y|
+    * |x⋅y| = |x| × |y|
+    * |x/y| = |x|/|y|
+- If ax + by = k, maximum value of xᵐyⁿ is obtained when ax/m = by/n
+- If xᵐyⁿ = k, minimum value of ax + by is obtained when ax/m = by/n
+- Maximum value of (a - x)ᵐ(b + x)ⁿ, x < a, b is obtained when (a - x)/m = (b + x)/n or at x = (an - bm)/(m + n)
+- Other Identities:
+    * If m < 0 or m > 1, (a + b / 2)ᵐ ≤ (aᵐ + bᵐ / 2)
+    * If 0 < m < 1, (aᵐ + bᵐ / 2) ≤ (a + b / 2)ᵐ
+    * Above identities are true for more than 2 numbers as well
+- Minimum value of (x + a)(x + b)/(x + c), where a > c, b > c and x + c > 0 is given by (a - c) + (b - c) + 2√(a - c)(b - c) and x = √{(a - c)(b - c) - c}
+
+## Permutations & Combinations
+
+- ⁿCᵣ = ⁿCₙ₋ᵣ
+- Number of ways of selecting one or more items from n = 2ⁿ - 1
+- Number of circular arrangements of n distinct items = (n - 1)!
+- Number of arrangements of n items of which p are of one type, q are of second type and the rest distinct = n! / p! × q!
+- Number of ways of dividing (p + q + r + ...) items into n groups of p, q, r, ... items respectively = (p + q + r)! / p! × q! × r! × ...
+- Number of ways of dividing 2p items into 2 equal groups where the groups do not have distinct identity = (2p) / 2! × (p!)²
+- Sum of all n-digit numbers numbers formed by n digits without repetition = (n - 1)! × (Sum of the n digits) × (11111... n times)
+- Number of diagonals in n-sided convex polygon = n(n - 3)/2
+- For x₁ + x₂ + x₃ + ... + xₙ = s where s ≥ 0, the number of positive integral solutions is ˢ⁻¹Cₙ₋₁ and the number of non-negative integral solutions is ⁿ⁺ˢ⁻¹Cₙ₋₁
+- Number of derangements of n objects = n![1 - 1/1! + 1/2! - 1/3! + ... + (-1)ⁿ1/n!]
+- Number of ways in which a selection can be made by taking some or all out of p + q + r + ... things where p are of one kind, q of second kind, r of thrid kind and so on = [{(p + 1)(q + 1)(r + 1) ...} - 1]
+- ⁿ⁺¹Cᵣ = ⁿCᵣ + ⁿCᵣ₋₁
+- ⁿPᵣ = r × ⁿ⁻¹Pᵣ₋₁ + ⁿ⁻¹Pᵣ
+- n objects can be distributed to r objects in ⁿ⁺ʳ⁻¹Cᵣ₋₁
