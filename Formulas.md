@@ -51,7 +51,7 @@
 - Compounding done k times a year => in n years A = P × (1 + r/100k)ᵏⁿ
 - Infinite compounding => A = P × eⁿʳ/¹⁰⁰
 - Instalment = P × r / 100 × {1 - (100 / 100 + r)ⁿ}
-- CI - SI when interest being compounded annually, on a sum of P at r% p.a. for n years = P × (r/100)ⁿ
+- CI - SI when interest being compounded annually, on a sum of P at r% p.a. for 2 years = P × (r/100)²
 
 ## Time & Distance
 
