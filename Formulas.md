@@ -59,7 +59,7 @@
 
 ## Geometry
 
-- Area of Triangle 1 / Area of Triangle 2 = (Perimeter of Triangle 1 / Perimeter of Triangle 2)²
+- If 2 triangles are similar, then Area of Triangle 1 / Area of Triangle 2 = (Perimeter of Triangle 1 / Perimeter of Triangle 2)²
 - Apollonius theorem
 - BOC = 90 + 1/2 × (BAC) if O is the incenter of the triangle ABC
 - AD² = AB × AC where ABC is a secant and AD is a tangent
