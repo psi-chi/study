@@ -55,7 +55,8 @@
 
 ## Time & Distance
 
-- The hands of a clock will form an angle of x° where x° is any angle satisfying 0° < x° < 180° for a total of 44 times in a day.
+- The hands of a clock form an angle of x° where x° is any angle satisfying 0° < x° < 180° for a total of 44 times in a day
+- If A and B runs from X to Y and Y to X at a and b km/h and time taken by them to reach the destination after crossing each other are t₁ and t₂ respectively, then a/b = √(t₂/t₁) provided that they start at the the same time
 
 ## Geometry
 
