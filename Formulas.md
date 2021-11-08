@@ -62,7 +62,7 @@
 - If 2 triangles are similar, then Area of △ 1 / Area of △ 2 = (Perimeter of △ 1 / Perimeter of △ 2)²
 - If O is the midpoint of BC, one of the sides of the △ ABC, then AB² + AC² = 2(AO² + BO²) = 2(AO² + CO²)
 - If O is the incenter of the triangle ABC, then ∠BOC = 90° + ∠BAC/2
-- If ABC is a secand and AD is a tangent to the circle, then AD² = AB × AC
+- If ABC is a secant and AD is a tangent to the circle, then AD² = AB × AC
 - If P is the point of intersection of the chords, then AP x BP = CP x DP
 - Angles formed by the chord in the same segment are equal
 - The longest side of a triangle is be more than one-third of the perimeter and less than half of the perimeter of the triangle
