@@ -59,16 +59,15 @@
 
 ## Geometry
 
-- If 2 triangles are similar, then Area of Triangle 1 / Area of Triangle 2 = (Perimeter of Triangle 1 / Perimeter of Triangle 2)²
-- Apollonius theorem
-- BOC = 90 + 1/2 × (BAC) if O is the incenter of the triangle ABC
-- AD² = AB × AC where ABC is a secant and AD is a tangent
-- According  to  the  “chords’ segments”  theorem,  AP  x BP = CP x DP where P is the point of intersection of chords
-- Angles in the same segment are equal
-- The  longest  side of  a  scalene  triangle  must  be  more  than one-third of the perimeter and less than half of the perimeter of the triangle
-- In a trapazium ABCD, AE/CE = BE/DC where E is the point of intersection of the diagonals AC and BD
-- Area  of  the  quadrilateral  is  the  total  area  of  two  right angled triangles
-- Opposite angles are supplementary of a quadrilateral inscribed in a circle
+- If 2 triangles are similar, then Area of △ 1 / Area of △ 2 = (Perimeter of △ 1 / Perimeter of △ 2)²
+- If O is the midpoint of BC, one of the sides of the △ ABC, then AB² + AC² = 2(AO² + BO²) = 2(AO² + CO²)
+- If O is the incenter of the triangle ABC, then ∠BOC = 90° + ∠BAC/2
+- If ABC is a secand and AD is a tangent to the circle, then AD² = AB × AC
+- If P is the point of intersection of the chords, then AP x BP = CP x DP
+- Angles formed by the chord in the same segment are equal
+- The longest side of a triangle is be more than one-third of the perimeter and less than half of the perimeter of the triangle
+- In a trapazium ABCD, if E is the point of intersection of the diagonals AC and BD, then AE/CE = BE/DC
+- If ABCD is a quadrilateral inscribed in a circle, then ∠A + ∠C = ∠B + ∠D = 180°
 
 ## Inequalities & Modules
 
