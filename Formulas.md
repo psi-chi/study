@@ -83,11 +83,8 @@
 - If ax + by = k, maximum value of xᵐyⁿ is obtained when ax/m = by/n
 - If xᵐyⁿ = k, minimum value of ax + by is obtained when ax/m = by/n
 - Maximum value of (a - x)ᵐ(b + x)ⁿ, ∀ x < a, b is obtained when (a - x)/m = (b + x)/n or at x = (an - bm)/(m + n)
-- Other Identities:
-    * If m < 0 or m > 1, (a + b / 2)ᵐ ≤ (aᵐ + bᵐ / 2)
-    * If 0 < m < 1, (aᵐ + bᵐ / 2) ≤ (a + b / 2)ᵐ
-    * Above identities are true for more than 2 numbers as well
-- Minimum value of (x + a)(x + b)/(x + c), where a > c, b > c and x + c > 0 is given by (a - c) + (b - c) + 2√(a - c)(b - c) and x = √{(a - c)(b - c) - c}
+- Minimum value of (x + a)(x + b)/(x + c), ∀ a > c, b > c and x + c > 0 is given by (a - c) + (b - c) + 2√(a - c)(b - c) and x = √{(a - c)(b - c) - c}
+- If m ≤ 0 or m ≥ 1, then (a + b + c + ... / 2)ᵐ ≤ (aᵐ + bᵐ + cᵐ + ... / 2), else (a + b + c + ... / 2)ᵐ > (aᵐ + bᵐ + cᵐ + ... / 2)
 
 ## Permutations & Combinations
 
