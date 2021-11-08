@@ -2,7 +2,7 @@
 
 ## Averages & Mixtures
 
-- Rule of alligation => if x + a = y - b then x and y were mixed in a ratio of b:a
+- Rule of allegation => if x + a = y - b then x and y were mixed in a ratio of b:a
 - If there is P volume of pure liquid and Q is taken out every time and is replaced by pure water n times then the concentration of pure liquid in the solution = (P - Q / P)ⁿ
 
 ## Logarithms
@@ -10,7 +10,7 @@
 - If aˣ = N, then x = logₐ N
 - Number of digits in N = Least integer greater than log N
 - Number of zeroes after decimal in N = Least integer greater than log N
-- Propertiers:
+- Properties:
   - logₓ 1 = 0
   - logₓ (ab) = logₓ a + logₓ b
   - logₓ (a/b) = logₓ a - logₓ b
@@ -62,12 +62,12 @@
 
 - If 2 triangles are similar, then Area of △ 1 / Area of △ 2 = (Perimeter of △ 1 / Perimeter of △ 2)²
 - If O is the midpoint of BC, one of the sides of the △ ABC, then AB² + AC² = 2(AO² + BO²) = 2(AO² + CO²)
-- If O is the incenter of the triangle ABC, then ∠BOC = 90° + ∠BAC/2
+- If O is the incentre of the triangle ABC, then ∠BOC = 90° + ∠BAC/2
 - If ABC is a secant and AD is a tangent to the circle, then AD² = AB × AC
 - If P is the point of intersection of the chords, then AP x BP = CP x DP
 - Angles formed by the chord in the same segment are equal
-- The longest side of a triangle is be more than one-third of the perimeter and less than half of the perimeter of the triangle
-- In a trapazium ABCD, if E is the point of intersection of the diagonals AC and BD, then AE/CE = BE/DC
+- The longest side of a triangle is more than one-third of the perimeter and less than half of the perimeter of the triangle
+- In a trapezium ABCD, if E is the point of intersection of the diagonals AC and BD, then AE/CE = BE/DC
 - If ABCD is a quadrilateral inscribed in a circle, then ∠A + ∠C = ∠B + ∠D = 180°
 
 ## Inequalities & Modules
@@ -96,11 +96,10 @@
 - Number of arrangements of n items of which p are of one type, q are of second type and the rest distinct = n! / p! × q!
 - Number of ways of dividing (p + q + r + ...) items into n groups of p, q, r, ... items respectively = (p + q + r)! / p! × q! × r! × ...
 - Number of ways of dividing 2p items into 2 equal groups where the groups do not have distinct identity = (2p) / 2! × (p!)²
-- Sum of all n-digit numbers numbers formed by n digits without repetition = (n - 1)! × (Sum of the n digits) × (11111... n times)
+- Sum of all n-digit numbers formed by n digits without repetition = (n - 1)! × (Sum of the n digits) × (11111... n times)
 - Number of diagonals in n-sided convex polygon = n(n - 3)/2
 - For x₁ + x₂ + x₃ + ... + xₙ = s where s ≥ 0, the number of positive integral solutions is ˢ⁻¹Cₙ₋₁ and the number of non-negative integral solutions is ⁿ⁺ˢ⁻¹Cₙ₋₁
 - Number of derangements of n objects = n!{1 - 1/1! + 1/2! - 1/3! + ... + (-1)ⁿ/n!}
-- Number of ways in which a selection can be made by taking some or all out of p + q + r + ... things where p are of one kind, q of second kind, r of thrid kind and so on = {(p + 1)(q + 1)(r + 1)... - 1}
+- Number of ways in which a selection can be made by taking some or all out of p + q + r + ... things where p are of one kind, q of second kind, r of third kind and so on = {(p + 1)(q + 1)(r + 1)... - 1}
 - ⁿ⁺¹Cᵣ = ⁿCᵣ + ⁿCᵣ₋₁
 - ⁿPᵣ = r × ⁿ⁻¹Pᵣ₋₁ + ⁿ⁻¹Pᵣ
-
