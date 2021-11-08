@@ -82,7 +82,7 @@
     * |x/y| = |x|/|y|
 - If ax + by = k, maximum value of xᵐyⁿ is obtained when ax/m = by/n
 - If xᵐyⁿ = k, minimum value of ax + by is obtained when ax/m = by/n
-- Maximum value of (a - x)ᵐ(b + x)ⁿ, x < a, b is obtained when (a - x)/m = (b + x)/n or at x = (an - bm)/(m + n)
+- Maximum value of (a - x)ᵐ(b + x)ⁿ, ∀ x < a, b is obtained when (a - x)/m = (b + x)/n or at x = (an - bm)/(m + n)
 - Other Identities:
     * If m < 0 or m > 1, (a + b / 2)ᵐ ≤ (aᵐ + bᵐ / 2)
     * If 0 < m < 1, (aᵐ + bᵐ / 2) ≤ (a + b / 2)ᵐ
