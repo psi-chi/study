@@ -77,10 +77,10 @@
 - 2 ≤ (1 + 1/x)ˣ < 2.8, ∀ x ≥ 1
 - x + 1/x ≥ 2, ∀ x > 0
 - Modulus Properties:
-    * |x + y| ≤ |x| + |y|
-    * ||x| - |y|| ≤ |x - y|
-    * |x⋅y| = |x| × |y|
-    * |x/y| = |x|/|y|
+  * |x + y| ≤ |x| + |y|
+  * ||x| - |y|| ≤ |x - y|
+  * |x⋅y| = |x| × |y|
+  * |x/y| = |x|/|y|
 - If ax + by = k, maximum value of xᵐyⁿ is obtained when ax/m = by/n
 - If xᵐyⁿ = k, minimum value of ax + by is obtained when ax/m = by/n
 - Maximum value of (a - x)ᵐ(b + x)ⁿ, ∀ x < a, b is obtained when (a - x)/m = (b + x)/n or at x = (an - bm)/(m + n)
@@ -112,9 +112,9 @@
 - Point P that divides AB internally in the ratio m:n = [(m⋅x₂ + n⋅x₁ / m + n),(m⋅y₂ + n⋅y₁ / m + n)]
 - Point P that divides AB externally in the ratio m:n = [(m⋅x₂ - n⋅x₁ / m - n),(m⋅y₂ - m⋅y₁ / m - n)]
 - Collinear conditions:
-    * AB + BC = CA or AC + CB = AB or AB + AC = BC
-    * Area = 0
-    * Slope of AB = Slope of BC
+  * AB + BC = CA or AC + CB = AB or AB + AC = BC
+  * Area = 0
+  * Slope of AB = Slope of BC
 - Equation of a line passing through a point (x₁,y₁): y - y₁ = m(x - x₁)
 - Intercept line equation: x/a + y/b = 1
 - y-intercept slope line equation: y = mx + b
@@ -122,8 +122,8 @@
 - Area of a quadrilateral = 1/2 |(x₁ - x₃) × (y₂ - y₄) - (x₂ - x₄) × (y₁ - y₃)|
 - The ratio in which the X–axis divides the line joining the points (x₁,y₁) and (x₂,y₂) is –y₁:y₂
 - Angle between 2 lines:
-    * tan(x) = |m₁ - m₂ / 1 + m₁m₂|
-    * cos(x) = |a₁a₂ + b₁b₂ / √{(a₁² + b₁²) × (a₂² + b₂²)}|
+  * tan(x) = |m₁ - m₂ / 1 + m₁m₂|
+  * cos(x) = |a₁a₂ + b₁b₂ / √{(a₁² + b₁²) × (a₂² + b₂²)}|
 - After rotating the x and y axis, X = x ⋅ cos 60° + y ⋅ sin 60°, Y = –x ⋅ sin 60° + y ⋅ cos 60°
 - General equation of straight line is ax + by + c = 0, ∀ y-intercept = -c/b, x-intercept = -c/a and slope = -a/b
 - Perpendicular distance from a point (x₁,y₁) to a straight line = |ax₁ + by₁ + c| / √(a² + b²)
@@ -134,77 +134,79 @@
 ## Mensuration
 
 ### Assumptions
-1.  s  = semi-perimeter
-2.  p  = perimeter
-3.  r  = smaller/inner radius
-4.  R  = larger/outer radius
-5.  e  = equal sides
-6.  f  = third side
-7.  S  = side
-8.  P  = perimeter of the base
-9.  l  = slant height
+
+1. s  = semi-perimeter
+2. p  = perimeter
+3. r  = smaller/inner radius
+4. R  = larger/outer radius
+5. e  = equal sides
+6. f  = third side
+7. S  = side
+8. P  = perimeter of the base
+9. l  = slant height
 10. A₁ = base area
 11. A₂ = top area
 
 ### Formulas
+
 - Triangle area:
-    * √{s(s - a)(s - b)(s - c)}
-    * 1/2 × b × h
-    * 1/2 × ab × sin C = 1/2 × bc × sin A = 1/2 × ca × sin B
-    * abc/4R
-    * r × s
+  * √{s(s - a)(s - b)(s - c)}
+  * 1/2 × b × h
+  * 1/2 × ab × sin C = 1/2 × bc × sin A = 1/2 × ca × sin B
+  * abc/4R
+  * r × s
 - Equilateral triangle:
-    * Area = √3 × a² / 4
-    * Height = √3 × a / 2
-    * Circumradius = a / √3
+  * Area = √3 × a² / 4
+  * Height = √3 × a / 2
+  * Circumradius = a / √3
 - Isosceles triangle area = b/4 × √(4e² - f²)
 - Quadrilateral area:
-    * 1/2 × d₁ × (sum of lines perpendicular to d₁ [offsets])
-    * √{(s - a)(s - b)(s - c)(s - d)}
+  * 1/2 × d₁ × (sum of lines perpendicular to d₁ [offsets])
+  * √{(s - a)(s - b)(s - c)(s - d)}
 - Area of trapezium = 1/2 × Sum of parallel sides × h
 - Parallelogram area:
-    * b × h
-    * Product of 2 adjacent sides × sin (included angle)
+  * b × h
+  * Product of 2 adjacent sides × sin (included angle)
 - Rohmbus area = 1/2 × Product of the diagonals
 - Square area = 1/2 × d², ∀ d = √2 × S
 - Regular hexagon area = 3√3/2 × S²
 - Circle:
-    * Area = πr²
-    * Circumference = 2πr
-    * Length of arc = θ/360 × 2πr
-    * Area of sector = θ/360 × πr² = 1/2 × Length of arc × r
+  * Area = πr²
+  * Circumference = 2πr
+  * Length of arc = θ/360 × 2πr
+  * Area of sector = θ/360 × πr² = 1/2 × Length of arc × r
 - Ellipse:
-    * Let a = semi-major axis, b = semi-minor axis
-    * Area = πab
-    * Perimeter = π(a + b)
+  * Let a = semi-major axis, b = semi-minor axis
+  * Area = πab
+  * Perimeter = π(a + b)
 - Prism:
-    * Lateral surface area = P × h
-    * Total surface area = Lateral surface area + (2 × A₁)
-    * Volume = A₁ × h
+  * Lateral surface area = P × h
+  * Total surface area = Lateral surface area + (2 × A₁)
+  * Volume = A₁ × h
 - Cuboid:
-    * Lateral surface area = 2(l + b) × h
-    * Total surface area = 2(lb + bh + hl)
-    * Longest diagonal = √(l² + b² + h²)
+  * Lateral surface area = 2(l + b) × h
+  * Total surface area = 2(lb + bh + hl)
+  * Longest diagonal = √(l² + b² + h²)
 - Cube diagonal = a√3
 - Cylinder:
-    * Volume = πr²h
-    * Curved surface area = 2πrh
-    * Total surface area = 2πr(h + r)
+  * Volume = πr²h
+  * Curved surface area = 2πrh
+  * Total surface area = 2πr(h + r)
 - Pyramid:
-    * Volume = 1/3 × b × h
-    * Lateral surface area = 1/2 × P × l
-    * Total surface area = Lateral surface area + A₁
+  * Volume = 1/3 × b × h
+  * Lateral surface area = 1/2 × P × l
+  * Total surface area = Lateral surface area + A₁
 - Cone:
-    * Volume = 1/3 × πr²h
-    * Curved surface area = πrl
-    * Total surface area = πr(l + r)
-    * Radius of cone formed by joining a sector = θ/360 × l
+  * Volume = 1/3 × πr²h
+  * Curved surface area = πrl
+  * Total surface area = πr(l + r)
+  * Radius of cone formed by joining a sector = θ/360 × l
 - Cone frustum:
-    * Volume = 1/3 × πh(R² + Rr + r²)
-    * Lateral surface area = πl(R + r)
-    * Total surface area = π(R² + r² + Rl + rl)
-    * l² = (R - r)² + h²
-    * r/R = H - h / H, ∀ H = Complete height
+  * Volume = 1/3 × πh(R² + Rr + r²)
+  * Lateral surface area = πl(R + r)
+  * Total surface area = π(R² + r² + Rl + rl)
+  * l² = (R - r)² + h²
+  * r/R = H - h / H, ∀ H = Complete height
 - Pyramid frustum:
     * Volume = 1/3 × h × (A₁ + A₂ + √A₁A₂)
     * Lateral surface area = 1/2 × (Sum of perimeters of base and top) × l
@@ -213,8 +215,8 @@
     * Volume = 2π²r²a
     * Surface area = 4π²ra
 - Sphere:
-    * Volume = (4/3)πr³
-    * Surface area = 4πr²
+  * Volume = (4/3)πr³
+  * Surface area = 4πr²
 - Number of faces + Number of vertices = Number of edges + 2
 - Regular polygon area = 1/2 × p × Perpendicular distance from the centre to any side
 
@@ -235,9 +237,9 @@
 - Sine rule => a/sin A = b/sin B = c/sin C = 2R, ∀ R = circumradius
 - Area of a triangle = 1/2 × ab × sin C = 1/2 × bc × sin A = 1/2 × ca × sin B
 - Cosine rule:
-    * cos A = b² + c² - a² / 2bc
-    * cos B = c² + a² - b² / 2ca
-    * cos C = a² + b² - c² / 2ac
+  * cos A = b² + c² - a² / 2bc
+  * cos B = c² + a² - b² / 2ca
+  * cos C = a² + b² - c² / 2ac
 - Chord = 2r × sin A/2
 
 ## Quadratic Equations
@@ -248,20 +250,20 @@
 - b² - 4ac = 0 => the roots are real and equal
 - Quadratic equation = (x - α) (x - β) = 0 => x² - x(α + β) + αβ = 0
 - Constructing new quadratic equation:
-    * Roots = 1/α, 1/β => Equation = cx² + bx + a = 0
-    * Roots = (α + k), (β + k) => Substitute x with (x - k)
-    * Roots = (α - k), (β - k) => Substitute x with (x + k)
-    * Roots = kα, kβ => Substitute x with x/k
-    * Roots = α/k, β/k => Substitute x with kx
+  * Roots = 1/α, 1/β => Equation = cx² + bx + a = 0
+  * Roots = (α + k), (β + k) => Substitute x with (x - k)
+  * Roots = (α - k), (β - k) => Substitute x with (x + k)
+  * Roots = kα, kβ => Substitute x with x/k
+  * Roots = α/k, β/k => Substitute x with kx
 - Minimum value when a > 0 = 4ac - b² / 4a, occurs at x = -b/2a
 - Maximum value when a < 0 = 4ac - b² / 4a, occurs at x = -b/2a
 - Remainder theorem:
-    * p(x) = (x - a) × q(x) + R, x = a => p(a) = R
-    * p(a) = 0 => 'a' is a zero of the polynomial p(x)
-    * p(x) = polynomial and 'a' = zero of p(x) => p(x) = (x - a) × q(x)
-    * When p(x) / ax + b, R = p(-b/a)
-    * When p(x) / ax - b, R = p(b/a)
-    * The degree of remainder is always less than the degree of divisor
+  * p(x) = (x - a) × q(x) + R, x = a => p(a) = R
+  * p(a) = 0 => 'a' is a zero of the polynomial p(x)
+  * p(x) = polynomial and 'a' = zero of p(x) => p(x) = (x - a) × q(x)
+  * When p(x) / ax + b, R = p(-b/a)
+  * When p(x) / ax - b, R = p(b/a)
+  * The degree of remainder is always less than the degree of divisor
 - Factor theorem => The number 'a' is a root of p(x) = 0, if (x - a) is a factor of p(x)
 - a₁, a₂,... aₙ (not necessarily distinct) are the roots of f(x) = 0 => f(x) = aₙ(x - a₁)(x - a₂)...(x - aₙ) = aₙ[xⁿ - S₁xⁿ⁻¹ + S₂xⁿ⁻²... + (-1)ⁿSₙ], ∀ S₁ = sum of roots, S₂ = sum of the product of roots taken 2 at a time,... Sₙ = sum of the product of roots taken n (all) at a time
 - Standard form of f(x):
@@ -278,12 +280,12 @@
 - HCF of fractions = HCF of numerators / LCM of denominators
 - a + b + c = 0 => a³ + b³ + c³ = 3abc
 - If a, b, c, ... are the powers of the prime factors x, y, z, ...:
-    * Number of factors = (a + 1)(b + 1)(c + 1)...
-    * Number of ways in which a number N can be defined as a product of 2:
-        1. Factors = 1/2 × {(a + 1)(b + 1)(c + 1)... + 1}
-        2. Different factors = 1/2 × {(a + 1)(b + 1)(c + 1)... - 1}
-    * Sum of all factors of N = (xᵃ⁺¹ - 1 / x - 1)(yᵇ⁺¹ - 1 / y - 1)...
-    * Product of factors of N = N⁽ᵃ⁺¹⁾⁽ᵇ⁺¹⁾⁽ᶜ⁺¹⁾.../²
+  * Number of factors = (a + 1)(b + 1)(c + 1)...
+  * Number of ways in which a number N can be defined as a product of 2:
+    - Factors = 1/2 × {(a + 1)(b + 1)(c + 1)... + 1}
+    - Different factors = 1/2 × {(a + 1)(b + 1)(c + 1)... - 1}
+  * Sum of all factors of N = (xᵃ⁺¹ - 1 / x - 1)(yᵇ⁺¹ - 1 / y - 1)...
+  * Product of factors of N = N⁽ᵃ⁺¹⁾⁽ᵇ⁺¹⁾⁽ᶜ⁺¹⁾.../²
 - Number of ways in which a number having n prime factors can be expressed as a product of two co-prime factors = 2ⁿ⁻¹
 - Number of co-primes to N less than N = N(1 - 1/a)(1 - 1/b)...
 - Sum of co-primes to N less than N = N/2 × no. of co-primes
@@ -305,10 +307,10 @@
 - Numbers ending with 1, 3, 7 or 9 => There is a cycle of at most 20 distinct remainders, 20ᵗʰ power ends with 01 & the cycle length could also be some factors of 20
 - Numbers ending with 2, 4, 6 or 8 => There is a cycle of at most 20 distinct remainders, 20ᵗʰ power ends with 76 & the cycle length could also be some factors of 20
 - Identities:
-    * a³ + b³ = (a + b)(a² - ab + b²)
-    * a³ - b³ = (a - b)(a² + ab + b²)
-    * (a + b + c)² = a² + b² + c² + 2ab + 2bc + 2ca
-    * (a + b)(b + c)(c + a) = a(b² + c²) + b(c² + a²) + c(a² + b²) + 2abc = a²(b + c) + b²(c + a) + c²(a + b) + 2abc = ab(a + b) + bc(b + c) + ca(a + c) + 2abc
-    * a³ + b³ + c³ - 3abc = (a + b + c)(a² + b² + c² - 2ab - 2bc - 2ca)
-    * aⁿ - bⁿ = (a - b)(aⁿ⁻¹ + aⁿ⁻²b - aⁿ⁻³b² + ... + a²bⁿ⁻³ + abⁿ⁻² + bⁿ⁻¹)
-    * aⁿ + bⁿ = (a + b)(aⁿ⁻¹ - aⁿ⁻²b + aⁿ⁻³b² + ... + a²bⁿ⁻³ - abⁿ⁻² + bⁿ⁻¹)
+  * a³ + b³ = (a + b)(a² - ab + b²)
+  * a³ - b³ = (a - b)(a² + ab + b²)
+  * (a + b + c)² = a² + b² + c² + 2ab + 2bc + 2ca
+  * (a + b)(b + c)(c + a) = a(b² + c²) + b(c² + a²) + c(a² + b²) + 2abc = a²(b + c) + b²(c + a) + c²(a + b) + 2abc = ab(a + b) + bc(b + c) + ca(a + c) + 2abc
+  * a³ + b³ + c³ - 3abc = (a + b + c)(a² + b² + c² - 2ab - 2bc - 2ca)
+  * aⁿ - bⁿ = (a - b)(aⁿ⁻¹ + aⁿ⁻²b - aⁿ⁻³b² + ... + a²bⁿ⁻³ + abⁿ⁻² + bⁿ⁻¹)
+  * aⁿ + bⁿ = (a + b)(aⁿ⁻¹ - aⁿ⁻²b + aⁿ⁻³b² + ... + a²bⁿ⁻³ - abⁿ⁻² + bⁿ⁻¹)
