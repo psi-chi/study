@@ -314,3 +314,63 @@
   * a³ + b³ + c³ - 3abc = (a + b + c)(a² + b² + c² - 2ab - 2bc - 2ca)
   * aⁿ - bⁿ = (a - b)(aⁿ⁻¹ + aⁿ⁻²b - aⁿ⁻³b² + ... + a²bⁿ⁻³ + abⁿ⁻² + bⁿ⁻¹)
   * aⁿ + bⁿ = (a + b)(aⁿ⁻¹ - aⁿ⁻²b + aⁿ⁻³b² + ... + a²bⁿ⁻³ - abⁿ⁻² + bⁿ⁻¹)
+
+## Functions
+
+- Power set = Set of all subsets
+- Symmetric Difference = (A - B) ∪ (B - A)
+- Identities:
+  * A ∪ (B ∩ C) = (A ∪ B) ∩ (B ∪ C)
+  * A ∩ (B ∪ C) = (A ∩ B) ∪ (B ∩ C)
+  * C - (C - A) = C ∩ A
+  * C - (A ∪ B) = (C - A) ∩ (C - B)
+  * C - (A ∩ B) = (C - A) ∪ (C - B)
+  * (Aᶜ)ᶜ = A
+  * (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ
+  * (A ∪ B)ᶜ = Aᶜ ∪ Bᶜ
+- Cartesian Product = A × B
+- One-One/Injective Function = 1 element 1 image
+- Onto/Surjective Function => Every element of B is an image of at least one element of A
+- Properties:
+  * Range ⊆ Co-domain
+  * Every element of A has a unique image in B
+  * Two or more elements of A can have same image in B
+  * The number of functions from set A containing m elements to set B containing n elements = nᵐ
+  * Number of non-empty subsets = 2ⁿ - 1
+  * Number of non-empty proper subsets = 2ⁿ - 2
+  * Number of one-one functions = ᵇPₐ
+  * Number of onto functions from set A containing m elements to set B containing n elements = nᵐ - ⁿC₁(n - 1)ᵐ + ⁿC₂(n - 2)ᵐ - ... + ...
+  * Number of possible bijections = n!
+- A function that is not an onto function is into function
+- A function that is one-one and onto is called bijective function
+- Constant function => f(x) = k, Ɐ x ∈ A
+- Identity function => f(x) = x, Ɐ x ∈ A
+- If f(x) = y and f(y) = x then f(y) = x is the inverse function
+- Composite Functions Propertiers:
+  * (fof⁻¹)(x) = x or (fof⁻¹) = I
+  * f: A → A is injective => f is bijective, Ɐ A ≠ ∞
+  * f: A → B is bijective => f⁻¹of = Iₐ and fof⁻¹ = I₆
+  * f: A → B and g: B → A are two functions such that gof = Iₐ and fog = I₆ => g = f⁻¹
+  * f: A → B and g: B → A are two bijective functions => (gof)⁻¹ = f⁻¹og⁻¹
+  * If f: A → B and g: B → C are two functions:
+    - f and g are injective => gof is injective
+    - f and g are surjective => gof is surjective
+    - f and g are bijective => gof is bijective
+    - gof is injective => f is injective
+    - gof is surjective => g is surjective
+    - gof is bijective => f is injective and g is surjective
+  * h: A → B, g: B → C, f: C → D => fo(goh) = (fog)oh
+- If f: D₁ → R and g: D₂ → R and D = D₁ ∩ D₂:
+  * (f ± g)(x) = f(x) ± g(x)
+  * (f × g)(x) = f(x) × g(x)
+  * (f / g)(x) = f(x) / g(x)
+  * (cf)(x) = c × f(x), Ɐ c = constant and (cf): D₁ → R
+  * Domain of (f ± g), (f × g) and (f / g) is D₁ ∩ D₂
+- Even function => f(-x) = f(x) and -x, x should be in the domain
+- Periodic funciton => f(x + T) = f(x), Ɐ T = Positive
+- Signum function => sg(x) = |x|/x, if x ≠ and 0 if x = 0
+- Functional Equations:
+  * f(x + y) = f(x) + f(y) => f(x) = kx, Ɐ k ∈ R
+  * f(x + y) = f(x)f(y) => f(x) = 0 or f(x) = aˣ, Ɐ a > 0
+  * f(xy) = f(x) + f(y) => f(x) = klog(x), Ɐ k ∈ R
+  * f(xy) = f(x)f(y) => f(x) = 0 or f(x) = xⁿ, n ∈ R
