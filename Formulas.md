@@ -135,17 +135,17 @@
 
 ### Assumptions
 
-1. s  = semi-perimeter
-2. p  = perimeter
-3. r  = smaller/inner radius
-4. R  = larger/outer radius
-5. e  = equal sides
-6. f  = third side
-7. S  = side
-8. P  = perimeter of the base
-9. l  = slant height
-10. A₁ = base area
-11. A₂ = top area
+- s = semi-perimeter
+- p = perimeter
+- r = smaller/inner radius
+- R = larger/outer radius
+- e = equal sides
+- f = third side
+- S = side
+- P = perimeter of the base
+- l = slant height
+- A₁ = base area
+- A₂ = top area
 
 ### Formulas
 
@@ -267,11 +267,11 @@
 - Factor theorem => The number 'a' is a root of p(x) = 0, if (x - a) is a factor of p(x)
 - a₁, a₂,... aₙ (not necessarily distinct) are the roots of f(x) = 0 => f(x) = aₙ(x - a₁)(x - a₂)...(x - aₙ) = aₙ[xⁿ - S₁xⁿ⁻¹ + S₂xⁿ⁻²... + (-1)ⁿSₙ], ∀ S₁ = sum of roots, S₂ = sum of the product of roots taken 2 at a time,... Sₙ = sum of the product of roots taken n (all) at a time
 - Standard form of f(x):
-    * General = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + aₙ₋₂xⁿ⁻²... + a₁x + a₀
-    * Roots = aₙ[xⁿ - S₁xⁿ⁻¹ + S₂xⁿ⁻²... + (-1)ˣ⁻¹Sₙ₋₁x + (-1)ⁿSₙ]
+  * General = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + aₙ₋₂xⁿ⁻²... + a₁x + a₀
+  * Roots = aₙ[xⁿ - S₁xⁿ⁻¹ + S₂xⁿ⁻²... + (-1)ˣ⁻¹Sₙ₋₁x + (-1)ⁿSₙ]
 - Descartes' Rule of Signs:
-    * Maximum number of positive roots = n sign changes (- to + or + to -) in f(x) or n - 2 or n - 4 and so on
-    * Maximum number of negative roots = n sign changes in f(-x) or n - 2 or n - 4 and so on
+  * Maximum number of positive roots = n sign changes (- to + or + to -) in f(x) or n - 2 or n - 4 and so on
+  * Maximum number of negative roots = n sign changes in f(-x) or n - 2 or n - 4 and so on
 - (x + 1) is one root of the equation if the sum of individual term and coefficients x², x⁴, x⁶... is equal to the sum of coefficients of x, x³, x⁵...
 
 ## Numbers
