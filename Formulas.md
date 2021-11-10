@@ -2,7 +2,7 @@
 
 ## Averages & Mixtures
 
-- Rule of allegation => if x + a = y - b then x and y were mixed in a ratio of b:a
+- Rule of allegation: If x + a = y - b, then x and y were mixed in a ratio of b:a
 - If there is P volume of pure liquid and Q is taken out every time and is replaced by pure water n times then the concentration of pure liquid in the solution = (P - Q / P)ⁿ
 
 ## Logarithms
