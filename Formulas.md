@@ -167,7 +167,7 @@
 - Parallelogram area:
   * b × h
   * Product of 2 adjacent sides × sin (included angle)
-- Rohmbus area = 1/2 × Product of the diagonals
+- Rhombus area = 1/2 × Product of the diagonals
 - Square area = 1/2 × d², ∀ d = √2 × S
 - Regular hexagon area = 3√3/2 × S²
 - Circle:
@@ -346,7 +346,7 @@
 - Constant function => f(x) = k, Ɐ x ∈ A
 - Identity function => f(x) = x, Ɐ x ∈ A
 - If f(x) = y and f(y) = x then f(y) = x is the inverse function
-- Composite Functions Propertiers:
+- Composite Functions Properties:
   * (fof⁻¹)(x) = x or (fof⁻¹) = I
   * f: A → A is injective => f is bijective, Ɐ A ≠ ∞
   * f: A → B is bijective => f⁻¹of = Iₐ and fof⁻¹ = I₆
