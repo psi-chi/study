@@ -120,7 +120,7 @@
 - y-intercept slope line equation: y = mx + b
 - Concurrent lines intersect each other at a point
 - Area of a quadrilateral = 1/2 |(x₁ - x₃) × (y₂ - y₄) - (x₂ - x₄) × (y₁ - y₃)|
-- The ratio in which the X–axis divides the line joining the points (x₁,y₁) and (x₂,y₂) is –y₁:y₂
+- The ratio in which the X–axis divides the line joining the points (x₁,y₁) and (x₂,y₂) = -y₁:y₂
 - Angle between 2 lines:
   * tan(x) = |m₁ - m₂ / 1 + m₁m₂|
   * cos(x) = |a₁a₂ + b₁b₂ / √{(a₁² + b₁²) × (a₂² + b₂²)}|
