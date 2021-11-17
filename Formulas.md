@@ -239,7 +239,7 @@
 - Cosine rule:
   * cos A = b² + c² - a² / 2bc
   * cos B = c² + a² - b² / 2ca
-  * cos C = a² + b² - c² / 2ac
+  * cos C = a² + b² - c² / 2ab
 - Chord = 2r × sin A/2
 
 ## Quadratic Equations
