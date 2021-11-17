@@ -122,8 +122,8 @@
 - Area of a quadrilateral = 1/2 |(x₁ - x₃) × (y₂ - y₄) - (x₂ - x₄) × (y₁ - y₃)|
 - The ratio in which the X–axis divides the line joining the points (x₁,y₁) and (x₂,y₂) = -y₁:y₂
 - Angle between 2 lines:
-  * tan(x) = |m₁ - m₂ / 1 + m₁m₂|
-  * cos(x) = |a₁a₂ + b₁b₂ / √{(a₁² + b₁²) × (a₂² + b₂²)}|
+  * tan θ = |m₁ - m₂ / 1 + m₁m₂|
+  * cos θ = |a₁a₂ + b₁b₂ / √{(a₁² + b₁²) × (a₂² + b₂²)}|
 - After rotating the x and y axis, X = x ⋅ cos 60° + y ⋅ sin 60°, Y = –x ⋅ sin 60° + y ⋅ cos 60°
 - General equation of straight line is ax + by + c = 0, ∀ y-intercept = -c/b, x-intercept = -c/a and slope = -a/b
 - Perpendicular distance from a point (x₁,y₁) to a straight line = |ax₁ + by₁ + c| / √(a² + b²)
