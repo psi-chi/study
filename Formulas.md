@@ -95,7 +95,7 @@
 - Number of circular arrangements of n distinct items = (n - 1)!
 - Number of arrangements of n items of which p are of one type, q are of second type and the rest distinct = n! / p! × q!
 - Number of ways of dividing (p + q + r + ...) items into n groups of p, q, r, ... items respectively = (p + q + r)! / p! × q! × r! × ...
-- Number of ways of dividing 2p items into 2 equal groups where the groups do not have distinct identity = (2p) / 2! × (p!)²
+- Number of ways of dividing 2p items into 2 equal groups where the groups do not have distinct identity = (2p)! / 2! × (p!)²
 - Sum of all n-digit numbers formed by n digits without repetition = (n - 1)! × (Sum of the n digits) × (11111... n times)
 - Number of diagonals in n-sided convex polygon = n(n - 3)/2
 - For x₁ + x₂ + x₃ + ... + xₙ = s where s ≥ 0, the number of positive integral solutions is ˢ⁻¹Cₙ₋₁ and the number of non-negative integral solutions is ⁿ⁺ˢ⁻¹Cₙ₋₁
