@@ -240,7 +240,7 @@
   * cos A = b² + c² - a² / 2bc
   * cos B = c² + a² - b² / 2ca
   * cos C = a² + b² - c² / 2ab
-- Chord AB = 2r × sin ∠AOB/2
+- Chord AB = 2r × sin (∠AOB/2)
 
 ## Quadratic Equations
 
