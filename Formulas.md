@@ -117,7 +117,7 @@
   * Slope of AB = Slope of BC = Slope of CA (Any pair)
 - Equation of a line passing through a point (x₁,y₁): y - y₁ = m(x - x₁)
 - Intercept line equation: x/a + y/b = 1
-- y-intercept slope line equation: y = mx + b
+- Intercept slope line equation: y = mx + b
 - Concurrent lines intersect each other at a point
 - Area of a quadrilateral = 1/2 |(x₁ - x₃) × (y₂ - y₄) - (x₂ - x₄) × (y₁ - y₃)|
 - The ratio in which the X–axis divides the line joining the points (x₁,y₁) and (x₂,y₂) = -y₁:y₂
