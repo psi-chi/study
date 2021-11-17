@@ -48,8 +48,8 @@
 
 ## Interest
 
-- Compounding done k times a year => in n years A = P × (1 + r/100k)ᵏⁿ
-- Infinite compounding => A = P × eⁿʳ/¹⁰⁰
+- Compounding done k times a year ⇒ in n years A = P × (1 + r/100k)ᵏⁿ
+- Infinite compounding ⇒ A = P × eⁿʳ/¹⁰⁰
 - Instalment = P × r / 100 × {1 - (100 / 100 + r)ⁿ}
 - CI - SI when interest being compounded annually, on a sum of P at r% p.a. for 2 years = P × (r/100)²
 
@@ -234,7 +234,7 @@
 - sin(-θ) = -sin θ
 - cos(-θ) = cos θ
 - tan(-θ) = -tan θ
-- Sine rule => a/sin A = b/sin B = c/sin C = 2R, ∀ R = circumradius
+- Sine rule ⇒ a/sin A = b/sin B = c/sin C = 2R, ∀ R = circumradius
 - Area of a triangle = 1/2 × ab × sin C = 1/2 × bc × sin A = 1/2 × ca × sin B
 - Cosine rule:
   * cos A = b² + c² - a² / 2bc
@@ -247,25 +247,25 @@
 - Roots = -b ± √(b² - 4ac) / 2a
 - Sum of roots = -b/a
 - Product of the roots = c/a
-- b² - 4ac = 0 => the roots are real and equal
-- Quadratic equation = (x - α) (x - β) = 0 => x² - x(α + β) + αβ = 0
+- b² - 4ac = 0 ⇒ the roots are real and equal
+- Quadratic equation = (x - α) (x - β) = 0 ⇒ x² - x(α + β) + αβ = 0
 - Constructing new quadratic equation:
-  * Roots = 1/α, 1/β => Equation = cx² + bx + a = 0
-  * Roots = (α + k), (β + k) => Substitute x with (x - k)
-  * Roots = (α - k), (β - k) => Substitute x with (x + k)
-  * Roots = kα, kβ => Substitute x with x/k
-  * Roots = α/k, β/k => Substitute x with kx
+  * Roots = 1/α, 1/β ⇒ Equation = cx² + bx + a = 0
+  * Roots = (α + k), (β + k) ⇒ Substitute x with (x - k)
+  * Roots = (α - k), (β - k) ⇒ Substitute x with (x + k)
+  * Roots = kα, kβ ⇒ Substitute x with x/k
+  * Roots = α/k, β/k ⇒ Substitute x with kx
 - Minimum value when a > 0 = 4ac - b² / 4a, occurs at x = -b/2a
 - Maximum value when a < 0 = 4ac - b² / 4a, occurs at x = -b/2a
 - Remainder theorem:
-  * p(x) = (x - a) × q(x) + R, x = a => p(a) = R
-  * p(a) = 0 => 'a' is a zero of the polynomial p(x)
-  * p(x) = polynomial and 'a' = zero of p(x) => p(x) = (x - a) × q(x)
+  * p(x) = (x - a) × q(x) + R, x = a ⇒ p(a) = R
+  * p(a) = 0 ⇒ 'a' is a zero of the polynomial p(x)
+  * p(x) = polynomial and 'a' = zero of p(x) ⇒ p(x) = (x - a) × q(x)
   * When p(x) / ax + b, R = p(-b/a)
   * When p(x) / ax - b, R = p(b/a)
   * The degree of remainder is always less than the degree of divisor
-- Factor theorem => The number 'a' is a root of p(x) = 0, if (x - a) is a factor of p(x)
-- a₁, a₂,... aₙ (not necessarily distinct) are the roots of f(x) = 0 => f(x) = aₙ(x - a₁)(x - a₂)...(x - aₙ) = aₙ[xⁿ - S₁xⁿ⁻¹ + S₂xⁿ⁻²... + (-1)ⁿSₙ], ∀ S₁ = sum of roots, S₂ = sum of the product of roots taken 2 at a time,... Sₙ = sum of the product of roots taken n (all) at a time
+- Factor theorem ⇒ The number 'a' is a root of p(x) = 0, if (x - a) is a factor of p(x)
+- a₁, a₂,... aₙ (not necessarily distinct) are the roots of f(x) = 0 ⇒ f(x) = aₙ(x - a₁)(x - a₂)...(x - aₙ) = aₙ[xⁿ - S₁xⁿ⁻¹ + S₂xⁿ⁻²... + (-1)ⁿSₙ], ∀ S₁ = sum of roots, S₂ = sum of the product of roots taken 2 at a time,... Sₙ = sum of the product of roots taken n (all) at a time
 - Standard form of f(x):
   * General = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + aₙ₋₂xⁿ⁻²... + a₁x + a₀
   * Roots = aₙ[xⁿ - S₁xⁿ⁻¹ + S₂xⁿ⁻²... + (-1)ˣ⁻¹Sₙ₋₁x + (-1)ⁿSₙ]
@@ -278,7 +278,7 @@
 
 - LCM of fractions = LCM of numerators / HCF of denominators
 - HCF of fractions = HCF of numerators / LCM of denominators
-- a + b + c = 0 => a³ + b³ + c³ = 3abc
+- a + b + c = 0 ⇒ a³ + b³ + c³ = 3abc
 - If a, b, c, ... are the powers of the prime factors x, y, z, ...:
   * Number of factors = (a + 1)(b + 1)(c + 1)...
   * Number of ways in which a number N can be defined as a product of 2:
@@ -290,11 +290,11 @@
 - Number of co-primes to N less than N = N(1 - 1/a)(1 - 1/b)...
 - Sum of co-primes to N less than N = N/2 × no. of co-primes
 - Product of 2 numbers = LCM x HCF
-- Any number which when divided by p, q or r leaving the same remainder s in each case will be of the form [k(LCM of p, q and r) + s] ∀ k = 0, 1, 2... k = 0 => smallest number
-- Any number which when divided by p, q or r leaves respective remainders of s, t and u where p - s = q - t = r - u = v, will be in the form of [k(LCM of p, q, r) - v]. k = 1 => smallest number
+- Any number which when divided by p, q or r leaving the same remainder s in each case will be of the form [k(LCM of p, q and r) + s] ∀ k = 0, 1, 2... k = 0 ⇒ smallest number
+- Any number which when divided by p, q or r leaves respective remainders of s, t and u where p - s = q - t = r - u = v, will be in the form of [k(LCM of p, q, r) - v]. k = 1 ⇒ smallest number
 - The largest number with which the numbers p, q or r are divided giving remainders of s, t and u respectively will be the HCF of the three numbers (p – s), (q – t) and (r – u)
 - The largest number with which if we divide the numbers p, q and r, the remainders are the same = HCF of (q - r) and (p - r)
-- Successive division => Diagonal multiplication & vertical addition
+- Successive division ⇒ Diagonal multiplication & vertical addition
 - IGP = Successive division & adding quotients
 - Remainder theorem implies that f(x) when divided by x - a, the remainder is f(a)
 - Fermat’s little theorem: If p is prime and HCF (a,p) = 1, then aᵖ⁻¹ – 1 is a multiple of p
@@ -302,10 +302,10 @@
 - All the powers of number ending with 76 ends with 76
 - The product of N consecutive integers is divisible by N!
 - Prime number greater than 3 can be written in the form of (6k + 1) or (6k - 1)
-- Numbers ending with 0 => Powers more than 1 ends with 2 or more zeroes
-- Number ending with 5 => Powers end with 25 when tens digit is even and powers end alternatively in 25 and 75 when tens digit is odd
-- Numbers ending with 1, 3, 7 or 9 => There is a cycle of at most 20 distinct remainders, 20ᵗʰ power ends with 01 & the cycle length could also be some factors of 20
-- Numbers ending with 2, 4, 6 or 8 => There is a cycle of at most 20 distinct remainders, 20ᵗʰ power ends with 76 & the cycle length could also be some factors of 20
+- Numbers ending with 0 ⇒ Powers more than 1 ends with 2 or more zeroes
+- Number ending with 5 ⇒ Powers end with 25 when tens digit is even and powers end alternatively in 25 and 75 when tens digit is odd
+- Numbers ending with 1, 3, 7 or 9 ⇒ There is a cycle of at most 20 distinct remainders, 20ᵗʰ power ends with 01 & the cycle length could also be some factors of 20
+- Numbers ending with 2, 4, 6 or 8 ⇒ There is a cycle of at most 20 distinct remainders, 20ᵗʰ power ends with 76 & the cycle length could also be some factors of 20
 - Identities:
   * a³ + b³ = (a + b)(a² - ab + b²)
   * a³ - b³ = (a - b)(a² + ab + b²)
@@ -330,7 +330,7 @@
   * (A ∪ B)ᶜ = Aᶜ ∪ Bᶜ
 - Cartesian Product = A × B
 - One-One/Injective Function = 1 element 1 image
-- Onto/Surjective Function => Every element of B is an image of at least one element of A
+- Onto/Surjective Function ⇒ Every element of B is an image of at least one element of A
 - Properties:
   * Range ⊆ Co-domain
   * Every element of A has a unique image in B
@@ -343,34 +343,34 @@
   * Number of possible bijections = n!
 - A function that is not an onto function is into function
 - A function that is one-one and onto is called bijective function
-- Constant function => f(x) = k, Ɐ x ∈ A
-- Identity function => f(x) = x, Ɐ x ∈ A
+- Constant function ⇒ f(x) = k, Ɐ x ∈ A
+- Identity function ⇒ f(x) = x, Ɐ x ∈ A
 - If f(x) = y and f(y) = x then f(y) = x is the inverse function
 - Composite Functions Properties:
   * (fof⁻¹)(x) = x or (fof⁻¹) = I
-  * f: A → A is injective => f is bijective, Ɐ A ≠ ∞
-  * f: A → B is bijective => f⁻¹of = Iₐ and fof⁻¹ = I₆
-  * f: A → B and g: B → A are two functions such that gof = Iₐ and fog = I₆ => g = f⁻¹
-  * f: A → B and g: B → A are two bijective functions => (gof)⁻¹ = f⁻¹og⁻¹
+  * f: A → A is injective ⇒ f is bijective, Ɐ A ≠ ∞
+  * f: A → B is bijective ⇒ f⁻¹of = Iₐ and fof⁻¹ = I₆
+  * f: A → B and g: B → A are two functions such that gof = Iₐ and fog = I₆ ⇒ g = f⁻¹
+  * f: A → B and g: B → A are two bijective functions ⇒ (gof)⁻¹ = f⁻¹og⁻¹
   * If f: A → B and g: B → C are two functions:
-    - f and g are injective => gof is injective
-    - f and g are surjective => gof is surjective
-    - f and g are bijective => gof is bijective
-    - gof is injective => f is injective
-    - gof is surjective => g is surjective
-    - gof is bijective => f is injective and g is surjective
-  * h: A → B, g: B → C, f: C → D => fo(goh) = (fog)oh
+    - f and g are injective ⇒ gof is injective
+    - f and g are surjective ⇒ gof is surjective
+    - f and g are bijective ⇒ gof is bijective
+    - gof is injective ⇒ f is injective
+    - gof is surjective ⇒ g is surjective
+    - gof is bijective ⇒ f is injective and g is surjective
+  * h: A → B, g: B → C, f: C → D ⇒ fo(goh) = (fog)oh
 - If f: D₁ → R and g: D₂ → R and D = D₁ ∩ D₂:
   * (f ± g)(x) = f(x) ± g(x)
   * (f × g)(x) = f(x) × g(x)
   * (f / g)(x) = f(x) / g(x)
   * (cf)(x) = c × f(x), Ɐ c = constant and (cf): D₁ → R
   * Domain of (f ± g), (f × g) and (f / g) is D₁ ∩ D₂
-- Even function => f(-x) = f(x) and -x, x should be in the domain
-- Periodic funciton => f(x + T) = f(x), Ɐ T = Positive
-- Signum function => sg(x) = |x|/x, if x ≠ and 0 if x = 0
+- Even function ⇒ f(-x) = f(x) and -x, x should be in the domain
+- Periodic funciton ⇒ f(x + T) = f(x), Ɐ T = Positive
+- Signum function ⇒ sg(x) = |x|/x, if x ≠ and 0 if x = 0
 - Functional Equations:
-  * f(x + y) = f(x) + f(y) => f(x) = kx, Ɐ k ∈ R
-  * f(x + y) = f(x)f(y) => f(x) = 0 or f(x) = aˣ, Ɐ a > 0
-  * f(xy) = f(x) + f(y) => f(x) = klog(x), Ɐ k ∈ R
-  * f(xy) = f(x)f(y) => f(x) = 0 or f(x) = xⁿ, n ∈ R
+  * f(x + y) = f(x) + f(y) ⇒ f(x) = kx, Ɐ k ∈ R
+  * f(x + y) = f(x)f(y) ⇒ f(x) = 0 or f(x) = aˣ, Ɐ a > 0
+  * f(xy) = f(x) + f(y) ⇒ f(x) = klog(x), Ɐ k ∈ R
+  * f(xy) = f(x)f(y) ⇒ f(x) = 0 or f(x) = xⁿ, n ∈ R
