@@ -129,7 +129,7 @@
 - Perpendicular distance from a point (x₁,y₁) to a straight line = |ax₁ + by₁ + c| / √(a² + b²)
 - Distance between 2 parallel straight lines = |c₁ - c₂| / √(a² + b²)
 - Equation of a circle with center (h,k) is (x - h)² + (y - k)² = r²
-- The equation x² + y² + 2gx + 2fy + c = 0 represents a circle with a center of (-g,-f) and radius as √(g² + f² - c)
+- The equation x² + y² + 2hx + 2ky + c = 0 represents a circle with a center of (-h,-k) and radius as √(h² + k² - c)
 
 ## Mensuration
 
