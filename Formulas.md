@@ -114,7 +114,7 @@
 - Collinear conditions:
   * AB + BC = CA or AC + CB = AB or AB + AC = BC
   * Area = 0
-  * Slope of AB = Slope of BC = Slope of CA (Any pair)
+  * Slope of AB = Slope of BC = Slope of CA (any pair)
 - Equation of a line passing through a point (x₁,y₁): y - y₁ = m(x - x₁)
 - Intercept line equation: x/a + y/b = 1
 - Intercept slope line equation: y = mx + b
