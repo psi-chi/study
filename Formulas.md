@@ -134,6 +134,8 @@
 
 ### Assumptions
 
+- a = semi-major axis
+- b = semi-minor axis
 - s = semi-perimeter
 - p = perimeter
 - r = smaller/inner radius
@@ -174,7 +176,6 @@
   * Length of arc = θ/360 × 2πr
   * Area of sector = θ/360 × πr² = 1/2 × Length of arc × r
 - Ellipse:
-  * Let a = semi-major axis, b = semi-minor axis
   * Area = πab
   * Perimeter = π(a + b)
 - Prism:
