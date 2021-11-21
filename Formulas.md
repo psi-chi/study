@@ -165,7 +165,7 @@
 - Parallelogram area:
   * b × h
   * Product of 2 adjacent sides × sin (included angle)
-- Rhombus area = 1/2 × Product of the diagonals
+- Rhombus area = 1/2 × d₁ × d₂
 - Square area = 1/2 × d², ∀ d = √2 × S
 - Regular hexagon area = 3√3/2 × S²
 - Circle:
