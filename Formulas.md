@@ -140,7 +140,6 @@
 - r = smaller/inner radius
 - R = larger/outer radius
 - e = equal sides
-- f = third side
 - S = side
 - P = perimeter of the base
 - l = slant height
@@ -159,7 +158,7 @@
   * Area = √3 × a² / 4
   * Height = √3 × a / 2
   * Circumradius = a / √3
-- Isosceles triangle area = b/4 × √(4e² - f²)
+- Isosceles triangle area = b/4 × √(4e² - b²)
 - Quadrilateral area:
   * 1/2 × d₁ × (sum of lines perpendicular to d₁ [offsets])
   * √{(s - a)(s - b)(s - c)(s - d)}
