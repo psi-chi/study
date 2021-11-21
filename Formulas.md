@@ -97,7 +97,6 @@
 - Number of ways of dividing (p + q + r + ...) items into n groups of p, q, r, ... items respectively = (p + q + r)! / p! × q! × r! × ...
 - Number of ways of dividing 2p items into 2 equal groups where the groups do not have distinct identity = (2p)! / 2! × (p!)²
 - Sum of all n-digit numbers formed by n digits without repetition = (n - 1)! × (Sum of the n digits) × (11111... n times)
-- Number of diagonals in n-sided convex polygon = n(n - 3)/2
 - For x₁ + x₂ + x₃ + ... + xₙ = s where s ≥ 0, the number of positive integral solutions is ˢ⁻¹Cₙ₋₁ and the number of non-negative integral solutions is ⁿ⁺ˢ⁻¹Cₙ₋₁
 - Number of derangements of n objects = n!{1 - 1/1! + 1/2! - 1/3! + ... + (-1)ⁿ/n!}
 - Number of ways in which a selection can be made by taking some or all out of p + q + r + ... things where p are of one kind, q of second kind, r of third kind and so on = {(p + 1)(q + 1)(r + 1)... - 1}
@@ -218,6 +217,7 @@
   * Surface area = 4πr²
 - Number of faces + Number of vertices = Number of edges + 2
 - Regular polygon area = 1/2 × p × Perpendicular distance from the centre to any side
+- Number of diagonals in n-sided convex polygon = n(n - 3)/2
 
 ## Trigonometry
 
