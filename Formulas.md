@@ -124,7 +124,7 @@
 - Angle between 2 lines:
   * tan θ = |m₁ - m₂ / 1 + m₁m₂|
   * cos θ = |a₁a₂ + b₁b₂ / √{(a₁² + b₁²) × (a₂² + b₂²)}|
-- After rotating the x and y axis, X = x ⋅ cos 60° + y ⋅ sin 60°, Y = y ⋅ cos 60° - x ⋅ sin 60°
+- After rotating the x and y axis, X = x ⋅ cos θ + y ⋅ sin θ, Y = y ⋅ cos θ - x ⋅ sin θ
 - General equation of straight line is ax + by + c = 0, ∀ y-intercept = -c/b, x-intercept = -c/a and slope = -a/b
 - Perpendicular distance from a point (x₁,y₁) to a straight line = |ax₁ + by₁ + c| / √(a² + b²)
 - Distance between 2 parallel straight lines = |c₁ - c₂| / √(a² + b²)
