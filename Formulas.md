@@ -100,8 +100,6 @@
 - For x₁ + x₂ + x₃ + ... + xₙ = s where s ≥ 0, the number of positive integral solutions is ˢ⁻¹Cₙ₋₁ and the number of non-negative integral solutions is ⁿ⁺ˢ⁻¹Cₙ₋₁
 - Number of derangements of n objects = n!{1 - 1/1! + 1/2! - 1/3! + ... + (-1)ⁿ/n!}
 - Number of ways in which a selection can be made by taking some or all out of p + q + r + ... things where p are of one kind, q of second kind, r of third kind and so on = {(p + 1)(q + 1)(r + 1)... - 1}
-- ⁿ⁺¹Cᵣ = ⁿCᵣ + ⁿCᵣ₋₁
-- ⁿPᵣ = r × ⁿ⁻¹Pᵣ₋₁ + ⁿ⁻¹Pᵣ
 
 ## Coordinate Geometry
 
