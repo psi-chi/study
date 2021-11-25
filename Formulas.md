@@ -74,7 +74,7 @@
 
 - Product is maximum of 2 numbers when they are equal
 - Sum is minimum when 2 numbers are equal
-- 2 ≤ (1 + 1/x)ˣ < 2.8, ∀ x ≥ 1
+- 2 ≤ (1 + 1/x)ˣ < 2.8, ∀ x > 0
 - x + 1/x ≥ 2, ∀ x > 0
 - Modulus Properties:
   * |x + y| ≤ |x| + |y|
